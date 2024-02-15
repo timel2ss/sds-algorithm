@@ -6,6 +6,6 @@
 | :--: | :--: | :--: | :--: |
 | 2842 | [집배원 한상덕](https://www.acmicpc.net/problem/2842) | [제출 코드](./2842.java) | [정답 코드](./sol/2842_sol.java) |
 | 11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | [제출 코드](./11003.java) | [정답 코드](./sol/11003_sol.java) |
-| 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | [제출 코드](./1202.java) | 
-| 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | [제출 코드](./1655.java) |
-| 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | [제출 코드](./2042.java) | [정답 코드](./sol/2042_sol.java) |
+| 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | [제출 코드](./1202.java) | [정답 코드](./sol/1202_sol.java) |
+| 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | [제출 코드](./1655.java) | [정답 코드](./sol/1655_sol.java) |
+| 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | [제출 코드(Fenwick Tree)](./2042.java) <br> [제출 코드(Segment Tree)](./2042-2.java) <br> [제출 코드(Indexed Tree)](./2042-3.java)| [정답 코드](./sol/2042_sol.java) |
