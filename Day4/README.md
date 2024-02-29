@@ -6,4 +6,4 @@
 | :--: | :--: | :--: | :--: |
 | 6588 | [골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [제출 코드](./6588.java) | [정답 코드](./sol/6588_sol.java) |
 | 1256 | [사전](https://www.acmicpc.net/problem/1256) | [제출 코드](./1256.java) | [정답 코드](./sol/1256_sol.java) |
-| 1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | | [정답 코드](./sol/1010_sol.java) |
+| 1010 | [다리 놓기](https://www.acmicpc.net/problem/1010) | [제출 코드](./1010.java) | [정답 코드](./sol/1010_sol.java) |
